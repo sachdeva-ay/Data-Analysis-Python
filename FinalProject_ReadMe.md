@@ -44,5 +44,10 @@ What's actually interesting is to see how user actions translate into user outco
 ![ana2_5](https://cloud.githubusercontent.com/assets/25597919/25309690/93a1ffe6-27a1-11e7-8703-b2a8ad507edf.JPG)
 
 # Analysis 3
+
+### There are many devices which are used by users to sign up. 
+
+#### In Analysis 4, I have tried to show which are the devices which are mostly used by users to sign up on Airbnb and do their booking or just search for a detination. The dataset provides with the information where and when have the devices been used.
+
 # Analysis 4
 # Analysis 5
