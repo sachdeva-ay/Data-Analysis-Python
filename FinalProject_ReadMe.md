@@ -77,4 +77,10 @@ What's actually interesting is to see how user actions translate into user outco
 ![ana4_3](https://cloud.githubusercontent.com/assets/25597919/25309979/322356dc-27a8-11e7-8d1f-85c510a5b879.JPG)
 
 #### It's a clean comparision of usual destinations then and now, where we can see how the new users, register more and book less, and when they book they stay at the US.
+
 # Analysis 5
+
+#### In Aalysis 5, i have tried and showed that people from a particular place prefer travelling to places where there is a known language which is spoken.
+
+#### Finally, for the users English is the most spoken language and the most of the users prefer travelling to places where that is spoken.
+I have stored my final output for this in, Output folder under nam Analysis 5
