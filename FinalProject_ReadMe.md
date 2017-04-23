@@ -83,4 +83,7 @@ What's actually interesting is to see how user actions translate into user outco
 #### In Aalysis 5, i have tried and showed that people from a particular place prefer travelling to places where there is a known language which is spoken.
 
 #### Finally, for the users English is the most spoken language and the most of the users prefer travelling to places where that is spoken.
-I have stored my final output for this in, Output folder under nam Analysis 5
+
+![ana5_1](https://cloud.githubusercontent.com/assets/25597919/25310062/a3951336-27a9-11e7-8dc9-58eb76f18104.JPG)
+
+#### I have stored my final output for this in, Output folder under nam Analysis 5
