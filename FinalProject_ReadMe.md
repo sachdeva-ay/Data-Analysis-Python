@@ -47,7 +47,17 @@ What's actually interesting is to see how user actions translate into user outco
 
 ### There are many devices which are used by users to sign up. 
 
-#### In Analysis 4, I have tried to show which are the devices which are mostly used by users to sign up on Airbnb and do their booking or just search for a detination. The dataset provides with the information where and when have the devices been used.
+#### In Analysis 3, I have tried to show which are the devices which are mostly used by users to sign up on Airbnb and do their booking or just search for a detination. The dataset provides with the information where and when have the devices been used.
+
+![ana3_1](https://cloud.githubusercontent.com/assets/25597919/25309793/8b1d4bac-27a4-11e7-8ec5-e3da1b4cee59.JPG)
+
+#### Here it can be seen that most of the users have used either used Chrome or Safari as their browsers to sign up compared to other methods
+
+#### Going further to see what are devices that have been used by used to sign up or make their bookings.
+![ana3_2](https://cloud.githubusercontent.com/assets/25597919/25309794/8b1e6e60-27a4-11e7-9a30-78af5997c39d.JPG)
+
+### From the graph it is eveident that most of the users have used either windows, iOS or Andrroid as their sign up devices.
+But their has been a significant increase in the users who have used mobile phone to sign up and there has been a reduction in people using desktop more.
 
 # Analysis 4
 # Analysis 5
