@@ -21,11 +21,28 @@ What's actually interesting is to see how user actions translate into user outco
 
  #### Most of the people as from the last graph show that will chat to the host of the place and then only seem to book it.
 
-
-
-
-
 # Analysis 2
+### In the 2nd Analysis, I am trying to find out if there are any preferences related to travelling based upon gender.
+
+#### It can be seen from the below grapg that there is a lot of data missing which means people have not specified there gender while signing up at Airnb.
+ #### Also, notice that there is a slight difference between user gender.
+![ana2_1](https://cloud.githubusercontent.com/assets/25597919/25309686/938ffe90-27a1-11e7-9bf8-68a929724b42.JPG)
+
+#### Next thing it might be interesting to see if there is any gender preferences when travelling:
+![ana2_2](https://cloud.githubusercontent.com/assets/25597919/25309688/939d70de-27a1-11e7-84c9-108774524833.JPG)
+
+#### There are no big differences between the 2 main genders, but there is destination frecuency of the countries. It is furthere explined in the next graph which is in general where most of the people have made there bookings.
+![ana2_3](https://cloud.githubusercontent.com/assets/25597919/25309687/939d8286-27a1-11e7-85d3-b4bb6f8754f7.JPG)
+
+#### The first thing we can see that if there is a reservation, it's likely to be inside the US. But there is a 45% of people that never did a reservation.
+
+#### Going further to see what is the main age which prefers travelling.
+![ana2_4](https://cloud.githubusercontent.com/assets/25597919/25309689/939ebcc8-27a1-11e7-9be6-aca3030348e8.JPG)
+#### The common age to travel is between 25 and 40. 
+
+#### The next graph help us identify is there is a preference in travelling destination related to age.Like if people above 45 travel in a different way.
+![ana2_5](https://cloud.githubusercontent.com/assets/25597919/25309690/93a1ffe6-27a1-11e7-8703-b2a8ad507edf.JPG)
+
 # Analysis 3
 # Analysis 4
 # Analysis 5
