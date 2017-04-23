@@ -54,10 +54,26 @@ What's actually interesting is to see how user actions translate into user outco
 #### Here it can be seen that most of the users have used either used Chrome or Safari as their browsers to sign up compared to other methods
 
 #### Going further to see what are devices that have been used by used to sign up or make their bookings.
+
+![ana3_3](https://cloud.githubusercontent.com/assets/25597919/25309849/9bad15f0-27a5-11e7-8bda-f8d4d89ace12.JPG)
+
 ![ana3_2](https://cloud.githubusercontent.com/assets/25597919/25309794/8b1e6e60-27a4-11e7-9a30-78af5997c39d.JPG)
 
-### From the graph it is eveident that most of the users have used either windows, iOS or Andrroid as their sign up devices.
-But their has been a significant increase in the users who have used mobile phone to sign up and there has been a reduction in people using desktop more.
+#### From the graph it is eveident that most of the users have used either windows, iOS or Andrroid as their sign up devices.
+### But their has been a significant increase in the users who have used mobile phone to sign up and there has been a reduction in people using desktop.
 
 # Analysis 4
+
+### In Analysis 4, I have tried to show when the users have signed up i.e. the date, the day and how Airbnb has grown over years.
+
+#### In the below graph it is significatly shown how Airbnb's users have increased from 2010 to 2014.
+
+#### Going further to see on which days most of the accounts have been created.
+
+
+#### The minimum is Sundays(where the people use less the Internet), and usually maximum is Tuesdays for account creation.
+
+#### Further seeing the changes after 2014, and before 2014 in booking trend
+
+#### It's a clean comparision of usual destinations then and now, where we can see how the new users, register more and book less, and when they book they stay at the US.
 # Analysis 5
