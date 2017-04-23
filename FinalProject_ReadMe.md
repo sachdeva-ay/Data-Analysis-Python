@@ -10,7 +10,14 @@
 #### Most of the people in this have just seached Airbnb for a place but not booking.
 
 **Digging Deeper!**
+![ana1_3](https://cloud.githubusercontent.com/assets/25597919/25309563/aad33156-279e-11e7-9aee-f64eeeac8fc0.JPG)
 
+But what are the users on all those devices doing during the sessions? The data provides information on 3 important actions: searching, sending messages, and requesting a booking
+
+What's actually interesting is to see how user actions translate into user outcomes. Below is a high level summary of users' average session durations, days online, and achieved user outcomes:
+
+![ana1_4](https://cloud.githubusercontent.com/assets/25597919/25309564/aad44ca8-279e-11e7-9710-084d4d4d1c1e.JPG)
+![ana1_2](https://cloud.githubusercontent.com/assets/25597919/25309551/4d94d652-279e-11e7-8e64-b563ce0bf390.JPG)
 
 
 
