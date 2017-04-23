@@ -67,13 +67,14 @@ What's actually interesting is to see how user actions translate into user outco
 ### In Analysis 4, I have tried to show when the users have signed up i.e. the date, the day and how Airbnb has grown over years.
 
 #### In the below graph it is significatly shown how Airbnb's users have increased from 2010 to 2014.
-
+![ana4_1](https://cloud.githubusercontent.com/assets/25597919/25309980/322479ea-27a8-11e7-8e6a-66aaef3fae10.JPG)
 #### Going further to see on which days most of the accounts have been created.
 
-
+![ana4_2](https://cloud.githubusercontent.com/assets/25597919/25309981/32259096-27a8-11e7-8ee8-7b7cd05ab4c4.JPG)
 #### The minimum is Sundays(where the people use less the Internet), and usually maximum is Tuesdays for account creation.
 
 #### Further seeing the changes after 2014, and before 2014 in booking trend
+![ana4_3](https://cloud.githubusercontent.com/assets/25597919/25309979/322356dc-27a8-11e7-8d1f-85c510a5b879.JPG)
 
 #### It's a clean comparision of usual destinations then and now, where we can see how the new users, register more and book less, and when they book they stay at the US.
 # Analysis 5
